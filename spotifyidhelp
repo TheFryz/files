@@ -1,0 +1,4 @@
+Login to Spotify developer console and click on "Create an App". Fill in details for name and description
+Make a note of Client ID and Client Secret and type them into the prompt.
+
+https://developer.spotify.com/my-applications/#!/applications
