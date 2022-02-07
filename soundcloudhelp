@@ -1,0 +1,3 @@
+Find your OAuth token by visiting SoundCloud after logging in and watching any of the browsers requests to the SoundCloud API, the token will be under the Authorization header of any of these requests
+Place OAuth token in the config file
+You need to have this set to be able to use the me option
